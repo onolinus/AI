@@ -1,1 +1,1 @@
-#AI detection medan area
+#AI detection medan 1
